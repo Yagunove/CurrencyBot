@@ -1,0 +1,9 @@
+﻿{
+  "name": "curren-zybot",
+  "version": "0.0.0",
+  "description": "CurrenZYbot",
+  "main": "server.js",
+  "author": {
+    "name": "Андрей"
+  }
+}
